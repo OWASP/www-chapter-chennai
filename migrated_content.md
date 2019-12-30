@@ -457,10 +457,10 @@ Chennai-600096
 
 ` 09:30a – 09:35a => `<B>`Opening the meeting`</B>
 ` 09:36a – 10:35a => `<B>`Big Data Security - Dr. T V Gopal `[`Download``
- ``Presentation`](https://www.owasp.org/images/e/ee/OWASP_BigDataGenSecurity.pdf)</B>
+ ``Presentation`](/www-pdf-archive/OWASP_BigDataGenSecurity.pdf)</B>
 ` 10:36a – 11:05a => `<B>`Break + Networking`</B>
 ` 11:06a – 12:05n => `<B>`SQL Injection & Basic Clickjacking - Vinod `[`Download``
- ``Presentation`](https://www.owasp.org/images/d/d5/Owasp_sql_inj_basic_clickjacking.pdf)</B>
+ ``Presentation`](/www-pdf-archive/Owasp_sql_inj_basic_clickjacking.pdf)</B>
 ` 12:06p – 12:15p => `<B>`Closing Remarks`</B>
 
 Venue:
@@ -476,7 +476,7 @@ Mahabalipuram Road, Okkiam Thoraipakkam Chennai - 600 096 </B>
 ` 09:36a – 10:35a => `<B>`Digital Forensics by Ms. Kala Bhaskar`</B>
 ` 10:36a – 11:05a => `<B>`Break + Networking`</B>
 ` 11:06a – 12:05n => `<B>`Identity & Access Management systems by Geetha `[`Download``
- ``Presentation`](https://www.owasp.org/images/0/01/AIM_-OWASP-Re.pdf)</B>
+ ``Presentation`](/www-pdf-archive/AIM_-OWASP-Re.pdf)</B>
 ` 12:06p – 12:10p => `<B>`Closing remarks`</B>
 
 Venue:
@@ -490,10 +490,10 @@ Mahabalipuram Road, Okkiam Thoraipakkam Chennai - 600 096 </B>
 
 ` 09:30a – 09:35a => `<B>`Opening the meeting`</B>
 ` 09:36a – 10:35a => `<B>`Hacking - Tips & Tricks - Aananth `[`Download``
- ``Presentation`](https://www.owasp.org/images/c/c6/Hacking-Tips-and-Tricks.pdf)</B>
+ ``Presentation`](/www-pdf-archive/Hacking-Tips-and-Tricks.pdf)</B>
 ` 10:36a – 11:05a => `<B>`Break + Networking`</B>
 ` 11:06a – 12:05n => `<B>`Cyber Terrorism - Siva Kathiresan `[`Download``
- ``Presentation`](https://www.owasp.org/images/d/de/CyberTerrorism.pdf)</B>
+ ``Presentation`](/www-pdf-archive/CyberTerrorism.pdf)</B>
 ` 12:06p – 12:15p => `<B>`Closing Remarks`</B>
 
 Venue:
@@ -507,10 +507,10 @@ Mahabalipuram Road, Okkiam Thoraipakkam Chennai - 600 096 </B>
 
 ` 09:30a – 09:35a => `<B>`Opening the meeting`</B>
 ` 09:36a – 10:35a => `<B>`Cloud Security - Ezhil Arasan Babaraj `[`Download``
- ``Presentation`](https://www.owasp.org/images/c/cc/Cloud_Security_%E2%80%93_An_Overview.pdf)</B>
+ ``Presentation`](/www-pdf-archive/Cloud_Security_%E2%80%93_An_Overview.pdf)</B>
 ` 10:36a – 11:05a => `<B>`Break + Networking`</B>
 ` 11:06a – 12:05n => `<B>`PCI DSS - Kuppuswamy M `[`Download``
- ``Presentation`](https://www.owasp.org/images/9/90/PCI-DSS.pdf)</B>
+ ``Presentation`](/www-pdf-archive/PCI-DSS.pdf)</B>
 ` 12:06p – 12:15p => `<B>`Closing Remarks`</B>
 
 Venue:
@@ -618,4 +618,4 @@ Contact me at [Chintu Philips Koshy](mailto:chintu.koshy@owasp.org).
 
 __NOTOC__ <headertabs></headertabs>
 
-[Category:India](Category:India "wikilink")
+[Category:India](Category:India )
