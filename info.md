@@ -3,4 +3,5 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/Chennai-OWASP-Meetup-Group/)
-* [Social Link](#)-->
+* [Discord](https://discord.gg/7PdfJz5)
+* [Instagram](https://www.instagram.com/owasp_chennai/)
