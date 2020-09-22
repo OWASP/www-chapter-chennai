@@ -5,4 +5,4 @@
 
 ### Board Members
 
-* [Dhanesh Sivasamy (Conference Coordinator)](mailto:dhaneshsivasamy07@gmail.com)
+* [Dhanesh Sivasamy (Academic Coordinator)](mailto:dhaneshsivasamy07@gmail.com)
