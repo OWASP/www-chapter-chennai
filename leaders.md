@@ -1,7 +1,7 @@
 ### Leaders
 
 * [Venkatraman Kumar](mailto:venkatraman.kumar@owasp.org)
-* [Muktheeswaran Mariappan](mailto:maktheeswaran.marippan@owasp.org)
+* [Muktheeswaran Mariappan](mailto:muktheeswaran.mariappan@owasp.org)
 
 ### Board Members
 
