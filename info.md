@@ -7,3 +7,8 @@
 * [Instagram](https://www.instagram.com/owasp_chennai/)
 * [LinkedIn](https://www.linkedin.com/company/owasp-chennai-chapter)
 * [Twitter](https://twitter.com/owasp_chennai)
+
+## Blogs and Research
+* [Medium](https://medium.com/owasp-chennai)
+
+
