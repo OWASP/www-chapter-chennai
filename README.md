@@ -5,7 +5,7 @@
   <a href="https://github.com/OWASP/www-chapter-chennai"><img src="assets/images/logo/owasp_chennai_logo.png" alt="OWASP Chennai"></a>
 </h5>
 
-This is the source repository of OWASP Coimbatore. The Chapter wiki is located at https://owasp.org/www-chapter-chennai
+This is the source repository of OWASP Chennai. The Chapter wiki is located at https://owasp.org/www-chapter-chennai
 
 **Contributions**
 
