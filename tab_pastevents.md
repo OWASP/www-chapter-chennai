@@ -9,6 +9,14 @@ tags: Chennai OWASP Chapter India
 
 ## Past Events
 
+### OWASP Chennai Meetup - Topic: Content Discussion - 12th December, 2020 3:00 PM
+
+#### **Google Meet**
+
+### OWASP Chennai Meetup - Topic: Active Content Creation for Chennai Chapter - 14th November, 2020 3:00 PM
+
+#### **Google Meet**
+
 ### OWASP Chennai | Null Chennai Combined Meet - 10th August, 2019 02:30 PM
 
 #### **Sessions**
