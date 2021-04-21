@@ -1,11 +1,17 @@
 ---
 title: pastevents
-displaytext: Past Events
+displaytext: Events
 layout: null
 tab: true
 order: 2
 tags: Chennai OWASP Chapter India
 ---
+
+## Upcoming Events
+
+### Ultimate Prep Guide OSCP 2021 - Sat, May 1 · 6:30 PM to 8:00 PM (IST)
+
+- [Meetup Details](https://www.meetup.com/Chennai-OWASP-Meetup-Group/events/277528825/)
 
 ## Past Events
 
