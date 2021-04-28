@@ -15,6 +15,7 @@ tags: Chennai OWASP Chapter India
 
 <img src="assets/images/Ultimate_Prep_Guide_OSCP_2021.png" width="500" height="500" />
 
+- [Meeting Link](https://zoom.us/j/96208313537?pwd=SThRc0xHVUJaVkw0RzAvMlhLbEtBUT09)
 - [Meetup Details](https://www.meetup.com/Chennai-OWASP-Meetup-Group/events/277528825/)
 
 ## Past Events
