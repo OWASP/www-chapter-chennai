@@ -13,9 +13,11 @@ tags: Chennai OWASP Chapter India
 
 Venkatraman Kumar (Sep 2020 - Present)
 
-Muktheeswaran Mariappan (Sep 2020 - Present)
+Karthikeyan Krishnamoorthy (April 2021 - Present)
 
 ### Previous Chapter Leaders
+
+Muktheeswaran Mariappan (Sep 2020 - April 2021)
 
 Chintu Philips Koshy (Aug 2019 - Aug 2020)
 
