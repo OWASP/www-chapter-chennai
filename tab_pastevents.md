@@ -9,16 +9,16 @@ tags: Chennai OWASP Chapter India
 
 ## Upcoming Events
 
+## Past Events
+
 ### Ultimate Prep Guide OSCP 2021 - Sat, May 1 · 6:30 PM to 8:00 PM (IST)
 
 **OWASP Chennai** in collaboration with **OWASP Coimbatore** is planned to conduct a free workshop about tips and tricks for preparing OSCP 
 
 <img src="assets/images/Ultimate_Prep_Guide_OSCP_2021.png" width="500" height="500" />
 
-- [Meeting Link](https://zoom.us/j/96208313537?pwd=SThRc0xHVUJaVkw0RzAvMlhLbEtBUT09)
+- [Slides and Recorded Session](https://drive.google.com/drive/folders/1bu2XeS9G5JqyctRN4fdCD8w2lD9mghcf?usp=sharing)
 - [Meetup Details](https://www.meetup.com/Chennai-OWASP-Meetup-Group/events/277528825/)
-
-## Past Events
 
 ### OWASP Chennai Meetup - Topic: Content Discussion - 12th December, 2020 3:00 PM
 
