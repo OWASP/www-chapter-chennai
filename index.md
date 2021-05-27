@@ -28,4 +28,4 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
  {% include chapter_events.html group=page.meetup-group %}
  
-```Follow us on Twitter to know about more upcoming events and instant updates```
+Follow us on Twitter to know about more upcoming events and instant updates
