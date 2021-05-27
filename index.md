@@ -1,9 +1,12 @@
 ---
+
 layout: col-sidebar
 title: OWASP Chennai
 tags: Chennai OWASP Chapter India
 level: 6
+meetup-group: Chennai-OWASP-Meetup-Group
 region: Asia
+
 ---
 
 ## Welcome
@@ -21,5 +24,8 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ```Switch to Speakers tab for more information on presenting your research or talk on OWASP Chennai Chapter```
 
-## Upcoming Events
+## Upcoming Meetup Events
+
+ {% include chapter_events.html group=page.meetup-group %}
+ 
 ```Follow us on Twitter to know about more upcoming events and instant updates```
