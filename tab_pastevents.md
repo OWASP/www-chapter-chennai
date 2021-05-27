@@ -9,6 +9,18 @@ tags: Chennai OWASP Chapter India
 
 ## Upcoming Events
 
+### Understanding and Attacking Kerberos - Sun, June 27 · 6:30 PM to 8:00 PM (IST)
+
+<img src="assets/images/Understanding_Attacking_Kerberos.png" width="500" height="500" />
+
+- [Meetup Details](https://www.meetup.com/Chennai-OWASP-Meetup-Group/events/278426813/)
+
+### Securing Containers and Kubernetes Environment - Sat, June 26 · 6:30 PM to 8:00 PM (IST)
+
+<img src="assets/images/Securing_containers_Kubernetes_environment.png" width="500" height="500" />
+
+- [Meetup Details](https://www.meetup.com/Chennai-OWASP-Meetup-Group/events/278426555/)
+
 ## Past Events
 
 ### Ultimate Prep Guide OSCP 2021 - Sat, May 1 · 6:30 PM to 8:00 PM (IST)
