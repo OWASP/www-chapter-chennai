@@ -15,7 +15,7 @@ Venkatraman Kumar (Sep 2020 - Present)
 
 Karthikeyan Krishnamoorthy (April 2021 - Present)
 
-Vignesh Chandrasekeran (June 2021 - Present)
+Vignesh Chandrasekaran (June 2021 - Present)
 
 ### Previous Chapter Leaders
 
