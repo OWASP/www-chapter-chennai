@@ -9,21 +9,21 @@ tags: Chennai OWASP Chapter India
 
 ## Upcoming Events
 
+## Past Events
+
 ### Understanding and Attacking Kerberos - Sun, June 27 · 6:30 PM to 8:00 PM (IST)
 
 <img src="assets/images/Understanding_Attacking_Kerberos.png" width="500" height="500" />
 
+- [Slides](https://www.canva.com/design/DAEiX7GSiMw/ftTxG1G91TEM6KlmFucdow/view?utm_content=DAEiX7GSiMw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- [Recorded Session](https://drive.google.com/drive/folders/14n46giBC7paBVfFMvwEH57VmYh_4cyLz?usp=sharing)
 - [Meetup Details](https://www.meetup.com/Chennai-OWASP-Meetup-Group/events/278426813/)
-- [Meeting Invite](https://zoom.us/j/5116982249?pwd=Mkx4S3pCZFNkQ3MvWEhKZVlmRytqZz09)
 
 ### Securing Containers and Kubernetes Environment - Sat, June 26 · 6:30 PM to 8:00 PM (IST)
 
 <img src="assets/images/Securing_containers_Kubernetes_environment.png" width="500" height="500" />
 
 - [Meetup Details](https://www.meetup.com/Chennai-OWASP-Meetup-Group/events/278426555/)
-- [Meeting Invite](https://zoom.us/j/5116982249?pwd=Mkx4S3pCZFNkQ3MvWEhKZVlmRytqZz09)
-
-## Past Events
 
 ### OWASP Chennai Meetup - Topic: Board Discussion - Sat, June 5 - 03:00 PM to 04:00 PM (IST)
 - [Recorded Session](https://drive.google.com/file/d/13p44Kpnn2vtf92hIPuwaDfmMEkg01mfn/view?usp=sharing)
