@@ -24,7 +24,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 OWASP Chennai proudly celebrating OWASP’s 20th Anniversary!
 
-<img src="assets/images/logo/OWASP_20th_Anniversary.jpeg">
+<img src="assets/images/OWASP_20th_Anniversary.jpeg">
 
 ```Switch to Speakers tab for more information on presenting your research or talk on OWASP Chennai Chapter```
 
