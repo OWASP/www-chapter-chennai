@@ -24,6 +24,7 @@ tags: Chennai OWASP Chapter India
 <img src="assets/images/Securing_containers_Kubernetes_environment.png" width="500" height="500" />
 
 - [Meetup Details](https://www.meetup.com/Chennai-OWASP-Meetup-Group/events/278426555/)
+- [Slides](https://drive.google.com/file/d/1_a930pfeD_EfxgIFNI2qpRuS7HPSuC4D/view?usp=sharing)
 
 ### OWASP Chennai Meetup - Topic: Board Discussion - Sat, June 5 - 03:00 PM to 04:00 PM (IST)
 - [Recorded Session](https://drive.google.com/file/d/13p44Kpnn2vtf92hIPuwaDfmMEkg01mfn/view?usp=sharing)
