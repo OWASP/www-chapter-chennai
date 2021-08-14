@@ -9,6 +9,12 @@ tags: Chennai OWASP Chapter India
 
 ## Upcoming Events
 
+## Cyber Security and Data Privacy Careers are Timeless - Sat, 28  · 6:30 PM to 8:00 PM (IST)
+
+<img src="assets/images/Speaker_Career.png" width="500" height="500" />
+
+- [Meetup Details](https://www.meetup.com/Chennai-OWASP-Meetup-Group/events/280082902/)
+
 ## Past Events
 
 ### Understanding and Attacking Kerberos - Sun, June 27 · 6:30 PM to 8:00 PM (IST)
