@@ -14,6 +14,7 @@ tags: Chennai OWASP Chapter India
 <img src="assets/images/Speaker_Career.png" width="500" height="500" />
 
 - [Meetup Details](https://www.meetup.com/Chennai-OWASP-Meetup-Group/events/280082902/)
+- [Session Invite](https://us06web.zoom.us/j/86423453253?pwd=WS83WW9pVmpnV2I2VEVuUHloYXhrdz09)
 
 ## Past Events
 
