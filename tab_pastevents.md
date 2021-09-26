@@ -11,7 +11,7 @@ tags: Chennai OWASP Chapter India
 
 ## Web Socket Penetration Testing - Sat, October 2 · 6:30 PM to 8:00 PM (IST)
 
-<img src="Web_Socket_Penetration_Testing.png" width="500" height="500" />
+<img src="assets/images/Web_Socket_Penetration_Testing.png" width="500" height="500" />
 
 - [Meetup Details](https://www.meetup.com/Chennai-OWASP-Meetup-Group/events/280082902/)
 - [Registration Form Link](https://forms.gle/Y9Wkf77NA3Urej7X6)
