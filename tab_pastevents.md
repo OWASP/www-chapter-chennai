@@ -9,14 +9,21 @@ tags: Chennai OWASP Chapter India
 
 ## Upcoming Events
 
-## Cyber Security and Data Privacy Careers are Timeless - Sat, 28  · 6:30 PM to 8:00 PM (IST)
+## Web Socket Penetration Testing - Sat, October 2 · 6:30 PM to 8:00 PM (IST)
+
+<img src="Web_Socket_Penetration_Testing.png" width="500" height="500" />
+
+- [Meetup Details](https://www.meetup.com/Chennai-OWASP-Meetup-Group/events/280082902/)
+- [Registration Form Link](https://forms.gle/Y9Wkf77NA3Urej7X6)
+
+## Past Events
+
+## Cyber Security and Data Privacy Careers are Timeless - Sat, August 28  · 6:30 PM to 8:00 PM (IST)
 
 <img src="assets/images/Speaker_Career.png" width="500" height="500" />
 
 - [Meetup Details](https://www.meetup.com/Chennai-OWASP-Meetup-Group/events/280082902/)
-- [Session Invite](https://us06web.zoom.us/j/86423453253?pwd=WS83WW9pVmpnV2I2VEVuUHloYXhrdz09)
-
-## Past Events
+- [Recorded Session](https://drive.google.com/drive/folders/1paLqa8HECtIurzP4BkpGXGM9QdtEMog9?usp=sharing)
 
 ### Understanding and Attacking Kerberos - Sun, June 27 · 6:30 PM to 8:00 PM (IST)
 
