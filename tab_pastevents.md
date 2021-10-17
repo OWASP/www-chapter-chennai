@@ -7,16 +7,14 @@ order: 2
 tags: Chennai OWASP Chapter India
 ---
 
-## Upcoming Events
+## Past Events
 
 ## Web Socket Penetration Testing - Sat, October 2 · 6:30 PM to 8:00 PM (IST)
 
 <img src="assets/images/Web_Socket_Penetration_Testing.png" width="500" height="500" />
 
 - [Meetup Details](https://www.meetup.com/Chennai-OWASP-Meetup-Group/events/280082902/)
-- [Registration Form Link](https://forms.gle/Y9Wkf77NA3Urej7X6)
-
-## Past Events
+- [Recorded Session](https://drive.google.com/file/d/1KwjUExN7lbAPAJ7rAwLN4QSJt6n5wDqP/view?usp=sharing)
 
 ## Cyber Security and Data Privacy Careers are Timeless - Sat, August 28  · 6:30 PM to 8:00 PM (IST)
 
