@@ -9,6 +9,13 @@ tags: Chennai OWASP Chapter India
 
 ## Past Events
 
+## Web Cache Poisoning - Sat, February 26th · 6:30 PM to 8:00 PM (IST)
+
+<img src="assets/images/Web_Cache_Poisoning.png" width="500" height="500" />
+
+- [Meetup Details](https://www.meetup.com/Chennai-OWASP-Meetup-Group/events/284202052)
+- [Recorded Session](https://drive.google.com/file/d/1LA8QrKcM755G1SIkuffr0VKT765DM_c1/view?usp=sharing)
+
 ## Web Socket Penetration Testing - Sat, October 2 · 6:30 PM to 8:00 PM (IST)
 
 <img src="assets/images/Web_Socket_Penetration_Testing.png" width="500" height="500" />
