@@ -9,6 +9,31 @@ tags: Chennai OWASP Chapter India
 
 ## Past Events
 
+## Securing kubernetes and misconfigurations - Sat, December 16th 
+
+- [Meetup Details](https://www.meetup.com/chennai-owasp-meetup-group/events/297865090/)
+- Slides(https://docs.google.com/presentation/d/1f6dH4Q-fnArhJjENd1VT7v2YHkBTt68XYaqi4kRHVoY/edit?usp=sharing)
+- Photos(https://drive.google.com/drive/folders/1t9EbK-IiRgjnSdBj_ZtKK-em_zjDRKUB)
+
+## AWS Serverless Pentesing & EBS - Defense Strategies - Sat, December 16th 
+
+- [Meetup Details](https://www.meetup.com/chennai-owasp-meetup-group/events/297848202/)
+
+## Access control vulnerabilities - Sat, December 16th
+
+- [Meetup Details](https://www.meetup.com/chennai-owasp-meetup-group/events/297733035/)
+
+## Hacking containers - Sat, December 16th
+
+- [Meetup Details](https://www.meetup.com/chennai-owasp-meetup-group/events/297732838/)
+
+## November Meetup - Sat, November 18th
+
+- [Meetup Details](https://www.meetup.com/chennai-owasp-meetup-group/events/297372052/)
+- Session 1 - WiFi Pentesting using IoT Device
+- Session 2 - Threat Analysis
+- Session 3 - Analyzing SOC Tools
+
 ## Web Cache Poisoning - Sat, February 26th · 6:30 PM to 8:00 PM (IST)
 
 <img src="assets/images/Web_Cache_Poisoning.png" width="500" height="500" />
