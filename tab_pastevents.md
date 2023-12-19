@@ -12,8 +12,8 @@ tags: Chennai OWASP Chapter India
 ## Securing kubernetes and misconfigurations - Sat, December 16th 
 
 - [Meetup Details](https://www.meetup.com/chennai-owasp-meetup-group/events/297865090/)
-- Slides(https://docs.google.com/presentation/d/1f6dH4Q-fnArhJjENd1VT7v2YHkBTt68XYaqi4kRHVoY/edit?usp=sharing)
-- Photos(https://drive.google.com/drive/folders/1t9EbK-IiRgjnSdBj_ZtKK-em_zjDRKUB)
+- [Slides](https://docs.google.com/presentation/d/1f6dH4Q-fnArhJjENd1VT7v2YHkBTt68XYaqi4kRHVoY/edit?usp=sharing)
+- [Photos](https://drive.google.com/drive/folders/1t9EbK-IiRgjnSdBj_ZtKK-em_zjDRKUB)
 
 ## AWS Serverless Pentesing & EBS - Defense Strategies - Sat, December 16th 
 
