@@ -1,0 +1,32 @@
+community:
+  - name: chapter-chennai
+    platform: slack
+    url: https://owasp.slack.com/archives/CCVA64JPR
+    description: The slack channel for OWASP Chennai. Tweet to us at OWASPchennai
+leaders:
+  - name: Venkatraman Kumar
+    email: venkatraman.kumar@owasp.org
+    github: r3dw0lfsec
+  - name: Karthikeyan Krishnamoorthy
+    email: karthikeyan.krishnamoorthy@owasp.org
+  - name: Vignesh Chandrasekaran
+    email: vignesh.chandrasekaran@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Tamil Nadu
+  city: Chennai
+  latitude: 13.0836939
+  longitude: 80.270186
+meetup_group: Chennai-OWASP-Meetup-Group
+name: OWASP Chennai
+repositories:
+  - name: www-chapter-chennai
+    url: https://github.com/OWASP/www-chapter-chennai
+    description: OWASP Foundation Web Repository
+tags:
+  - Chennai
+  - OWASP
+  - Chapter
+  - India
+website: https://owasp.org/www-chapter-chennai
